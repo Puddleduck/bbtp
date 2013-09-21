@@ -1,0 +1,31 @@
+@font-face {
+   font-family: "calibri"; 
+   src:url("fonts/calibri.ttf");
+}
+
+body
+{
+font-family:calibri;
+color:white;
+margin-left:auto;
+margin-right:auto;
+width:80%;
+background-color:black;
+text-align:center;
+}
+a:link {color:white;}
+a:visited {color:white;}
+a:hover {color:red;}
+a:active {color:white;}
+
+#thumb
+{
+display:inline-block;
+padding:20px;
+}
+
+#bestimg
+{
+display:inline-block;
+padding:5px;
+}
